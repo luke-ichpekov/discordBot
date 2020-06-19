@@ -10,7 +10,7 @@ const request = require('request');
 
 
 
-const token = 'NzAxMTIzODAyOTIyNDgzNzgy.XuveBg.AyM0TyF5Aid_Lc4cxXMGND6RD7E';
+const token = 'private';
 
 const PREFIX = '!';
 
